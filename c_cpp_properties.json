@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/pc/src/plat",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter/c04.02/src/plat",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter",
+                "${workspaceFolder}/diy-tcpip-master/code/chapter/c03.09/src/app"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "JSON",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
